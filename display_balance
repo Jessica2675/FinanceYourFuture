@@ -1,0 +1,59 @@
+import numpy as np
+
+def __init__(self, name, input1, input2):
+    self.name = firstname 
+    self.input1= monthly_income
+    self.input2 = sum(monthly_income)
+    return 
+    #this function is for the trends icon of the app which aims to show the monthly spending
+    def trends(self, year): 
+      #the input of this function is a dictionary and self which calls on the income and expenditure
+      year = {1 : "January" , 2: "February" , 3 : "March", 4: "April ", 5: "May", 6: "June",
+              7: "July", 8 : "August", 9 : "September", 10: "October ", 11 : "November", 12 : "December"}
+      #trying to define the length of the months 
+      for month in year:
+            if month ==  4 or 6 or 9 or 11:
+                len(month) = 30
+            elif month == 1 or 3 or 5 or 7 or 8 or 10 or 12:
+                len(month) = 31
+            else:
+                len(month) = 28
+        #this doesn't yet take into account that February has 29 days in a leap year
+            return trends
+    
+      class Monthly_Income(self, 1, 2, 3, 4 , 5, 6, 7, 8 ,9, 10, 11, 12):
+        #this counter starts from 0 to represent January, the input is a number
+        month_counter = 1
+        for month in year:
+            monthyly_income1= 1
+            monthyly_income2= 2
+            monthyly_income3= 3
+            monthyly_income4= 4
+            monthyly_income5= 5
+            monthyly_income6= 6
+            monthyly_income7= 7
+            monthyly_income8= 8
+            monthyly_income9= 9
+            monthyly_income10= 10
+            monthyly_income11= 11
+            monthyly_income12= 12
+            return np.array((1+ year.get(1)), (2+year.get(2)), (3+year.get(3)), (4+year.get(4)), (5+year.get(5)), (6+year.get(6)), (7+year.get(7)), (8+year.get(8)), (9+year.get(9)), (10+year.get(10)), (11+year.get(11)), (12+year.get(12)) 
+          
+            def quarterly_outcome(self):
+                            #this function aims to allow the user to set goals for each quarter, the input is an intege
+                            print("Hello, self.firstname, what's is this quarter's goal?")
+                            quarterly_income1 = sum(monthly_income1 + monthly_income2+ monthly_income3+ monthly_income4)
+                            quarterly_income2 = sum(monthly_income5 + monthly_income6+ monthly_income7 + monthly_income8)
+                            quarterly_income3 = sum(monthly_income9 + monthly_income10 + monthly_income11 + monthly_income12)
+                            return quarterly_income
+                                        
+                            def quartely_goal(self, x):
+                            #the input of this function is an integer 
+                            if x < quarterly_outcome:
+                                return raise ValueError + print("Hey there, self.firstname, it looks like your quarterly savings is less than your quarterly goal. Do you want to reevaluate your monthly input?")
+                                
+                            if x > quarterly_outcome:
+                                print("Well Done! You have met your quarterly goal!")
+                    
+                            
+    
