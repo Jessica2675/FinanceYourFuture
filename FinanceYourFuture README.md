@@ -1,2 +1,2 @@
 # FinanceYourFuture
-A flexible, accessible mobile app which simplifies the process of managing your pension combined with elements of gamification to increase motivation and resources to improve commercial awareness
+A flexible and accessible mobile app which simplifies pension management; whilst, combining elements of gamification in order to increase motivation and resources regarding commercial awareness.
